@@ -9,4 +9,4 @@ Using the csv file named "ecg_data_step1", calculate the R-peaks of the ECG.  Wi
 
 
 ## Step 2
-This step is broken into two parts.  
+This step is broken into two parts.  The first is to perform supervised learning with KNeighborsClassifier, DecisionTreeClassifier, and RandomForestClassifier using default parameters.
